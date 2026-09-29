@@ -2,7 +2,6 @@ package com.supersouper.whichery.common.blocks.crops;
 
 import com.supersouper.whichery.ModItems;
 import net.minecraft.block.Block;
-import net.minecraft.block.BlockDeadBush;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
