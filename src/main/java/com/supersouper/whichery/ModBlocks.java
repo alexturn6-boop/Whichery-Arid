@@ -1,14 +1,14 @@
 package com.supersouper.whichery;
 
-import com.supersouper.whichery.common.blocks.crops.BlockCropFirePoppy;
-import com.supersouper.whichery.common.blocks.crops.BlockCropSilphium;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 import net.minecraft.item.ItemStack;
 
 import com.supersouper.whichery.common.blocks.BlockChalk;
+import com.supersouper.whichery.common.blocks.crops.BlockCropFirePoppy;
 import com.supersouper.whichery.common.blocks.crops.BlockCropMandrake;
+import com.supersouper.whichery.common.blocks.crops.BlockCropSilphium;
 import com.supersouper.whichery.common.blocks.crops.BlockCropWitchesThimble;
 
 import cpw.mods.fml.common.registry.GameRegistry;

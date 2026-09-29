@@ -1,9 +1,11 @@
 package com.supersouper.whichery.common.items.seeds;
 
-import com.supersouper.whichery.ModBlocks;
 import net.minecraft.block.Block;
 
-public class ItemSeedSilphium extends ItemWhicherySeed{
+import com.supersouper.whichery.ModBlocks;
+
+public class ItemSeedSilphium extends ItemWhicherySeed {
+
     public ItemSeedSilphium() {
         super("silphium");
     }

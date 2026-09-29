@@ -1,9 +1,11 @@
 package com.supersouper.whichery.common.items.seeds;
 
-import com.supersouper.whichery.ModBlocks;
 import net.minecraft.block.Block;
 
-public class ItemSeedFirePoppy extends ItemWhicherySeed{
+import com.supersouper.whichery.ModBlocks;
+
+public class ItemSeedFirePoppy extends ItemWhicherySeed {
+
     public ItemSeedFirePoppy() {
         super("fire_poppy");
     }
