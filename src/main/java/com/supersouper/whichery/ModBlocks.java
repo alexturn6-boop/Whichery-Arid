@@ -1,5 +1,7 @@
 package com.supersouper.whichery;
 
+import com.supersouper.whichery.common.blocks.crops.BlockCropFirePoppy;
+import com.supersouper.whichery.common.blocks.crops.BlockCropSilphium;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
@@ -19,7 +21,8 @@ public enum ModBlocks {
     CHALK_BLOCK(true, new BlockChalk(), "chalk_block"),
     WITCHES_THIMBLE(true, new BlockCropWitchesThimble("witches_thimble", 4), "crop_witches_thimble"),
     MANDRAKE(true, new BlockCropMandrake("mandrake", 3), "crop_mandrake"),
-
+    SILPHIUM(true, new BlockCropSilphium("silphium",3), "crop_silphium"),
+    FIRE_POPPY(true, new BlockCropFirePoppy("fire_poppy",2),"crop_fire_poppy"),
     ; // leave trailing semicolon
     // spotless:on
 

@@ -1,5 +1,7 @@
 package com.supersouper.whichery;
 
+import com.supersouper.whichery.common.items.seeds.ItemSeedFirePoppy;
+import com.supersouper.whichery.common.items.seeds.ItemSeedSilphium;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
@@ -21,6 +23,10 @@ public enum ModItems {
     MANDRAKE_SEED(true, new ItemSeedMandrake(), "seed_mandrake"),
     MANDRAKE_ROOT(true, new Item().setTextureName("whichery:mandrake_root").setUnlocalizedName("mandrake_root"), "mandrake_root"),
     RAW_CHICKEN_THAT_MAKES_YOU_BECOME_A_VAMPIRE(true, new ItemRawChickenThatMakesYouBecomeAVampire().setUnlocalizedName("raw_chicken_that_makes_you_become_a_vampire").setTextureName("chicken_raw"), "raw_chicken_that_makes_you_become_a_vampire"),
+    SILPHIUM_SEED(true, new ItemSeedSilphium(), "seed_silphium"),
+    SILPHIUM_FLOWER(true, new Item().setTextureName("whichery:silphium_flower").setUnlocalizedName("silphium_flower"), "silphium_flower"),
+    SILPHIUM_WILTED_FLOWER(true, new Item().setTextureName("whichery:silphium_wilted_flower").setUnlocalizedName("silphium_wilted_flower"), "silphium_wilted_flower"),
+    FIRE_POPPY_SEED(true, new ItemSeedFirePoppy(), "seed_fire_poppy"),
     ; // leave trailing semicolon
     // spotless:on
 

@@ -8,6 +8,9 @@ whichery.key.vampire_bite=Vampire - Bite
 #### Blocks
 tile.crop_witches_thimble.name=Witches' Thimble
 tile.crop_mandrake.name=Mandrake
+tile.crop_silphium.name=Silphium
+tile.crop_fire_poppy.name=Fire Poppy
+
 
 #### Items
 item.seed_witches_thimble.name=Witches' Thimble Seeds
@@ -15,6 +18,11 @@ item.witch_petal.name=Witchpetal
 item.seed_mandrake.name=Mandrake Seeds
 item.mandrake_root.name=Mandrake Root
 item.raw_chicken_that_makes_you_become_a_vampire.name=Raw Chicken that Makes you Become a Vampire
+item.silphium_flower.name=Silphium Flower
+item.silphium_wilted_flower.name=Silphium Wilted Flower
+item.seed_silphium.name=Silphium Seeds
+item.seed_fire_poppy.name=Fire Poppy Seeds
+
 
 #### Tooltip
 tooltip.family.families=Ingredient Families:
